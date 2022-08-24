@@ -1,7 +1,17 @@
 body{
- text-align: center;
- background:#d5c9bd;
+    text-align: center;
+    background:#c5b4d1;
+
 }
 #slogan{
     font-size: 25px;
+}
+
+.mago{
+    width : 89%;
+    height :40%;
+}
+
+.conteudo{
+    background-color: ;
 }
