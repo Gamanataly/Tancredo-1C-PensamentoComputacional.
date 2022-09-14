@@ -1,6 +1,9 @@
 body{
-    text-align: center;
     background:#c5b4d1;
+}
+main{
+    text-align: center;
+   
 
 }
 #slogan{
@@ -13,5 +16,10 @@ body{
 }
 
 .conteudo{
-    background-color: ;
+    background-color: #56676e;
+}
+
+.beneficios{
+    background-color: #c5b4d1;
+
 }
