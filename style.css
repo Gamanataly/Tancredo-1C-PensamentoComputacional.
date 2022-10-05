@@ -16,10 +16,30 @@ main{
 }
 
 .conteudo{
-    background-color: #56676e;
+    background-color: #c5b4d1;
+    font-family: cambria, Cochin, Georgia, Times, 'times new roman,' Serif;
+    color:rgb(red, green, blue)
 }
 
 .beneficios{
     background-color: #c5b4d1;
+display: inline-block;
+}
+ul{
+    display: inline-block
+    vertical-align:top;
+    padding: 10px;
+}
+
+li{
+padding: 10px;
+margin: 10px;
+
+}
+
+.foto beneficio{
+width: 50%;
+text-align: right
+padding:10px;
 
 }
