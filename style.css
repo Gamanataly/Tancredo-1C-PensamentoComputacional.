@@ -1,5 +1,11 @@
 body{
-    background:#c5b4d1;
+    background:linear-gradient(#402555,#a795b4  );
+    margin: 0 auto;
+}
+.foto-logo{
+    width: 15%;
+    margin-left: 17px;
+    border-radius: 100%;
 }
 main{
     text-align: center;
@@ -15,17 +21,13 @@ main{
     height :40%;
 }
 
-.conteudo{
-    background-color: #ddd0e7;
-    font-family: cambria, Cochin, Georgia, Times, 'times new roman,' Serif;
-    color:rgb(red, green, blue)
-}
 #slogan{
     font-size: 25px;
 }
 
-.beneficios{
-    background-color: #dccfe4;
+
+.beneficios h2 {
+text-align: center;
 
 }
 ul {
@@ -33,10 +35,11 @@ ul {
     vertical-align:top;
     padding: 10px;
     font-size: 20px;
-    margin-right: 500px;
+    margin-right: 400px;
 }
 li{
     padding: 6px;
+    margin-left: 20px;
 }
 
 .foto-beneficio {
@@ -44,5 +47,6 @@ width: 30%;
 text-align: right;
 padding:10px;
 display: inline-block;
-
+border-radius: 25px;
+box-shadow: 2px 2px 5px #000000;
 }
