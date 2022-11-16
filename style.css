@@ -7,6 +7,29 @@ body{
     margin-left: 17px;
     border-radius: 100%;
 }
+
+    nav{
+        position: absolute;
+        top: 90px;
+        right: 65px;
+    }
+        nav a{
+            font-size: 30px;
+            text-decoration: none;
+            text-transform: uppercase;
+            padding-left: 20px;
+            color: aquamarine;
+        
+        }
+
+        nav a:hover{
+
+            font-size: 34px;
+            font-weight: bold;
+            text-shadow: 2px 3px 5px #000000;
+            transition: 0.5s;
+
+        }
 main{
     text-align: center;
    
@@ -24,7 +47,6 @@ main{
 #slogan{
     font-size: 25px;
 }
-
 
 .beneficios h2 {
 text-align: center;
